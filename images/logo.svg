@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logo.svg"
+   id="svg20"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 795 150"
+   height="150"
+   width="795">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-11"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-10"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-32" />
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:current-layer="svg20"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="92.84413"
+     inkscape:cx="383.52951"
+     inkscape:zoom="0.99973338"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="837"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:163.799px;line-height:125%;font-family:'Berlin Sans FB';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.09488;"
+     x="-2.5002153"
+     y="122.44713"
+     id="text849"><tspan
+       style="stroke-width:6.09488;fill:#ffffff;"
+       sodipodi:role="line"
+       x="-2.5002153"
+       y="122.44713"
+       id="tspan847"><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:163.799px;font-family:'Berlin Sans FB';fill:#ffffff;stroke-width:6.09488;"
+         id="tspan843-2">North Cape</tspan><tspan
+         dx="0"
+         dy="0"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:163.799px;font-family:'Berlin Sans FB';fill:#ffffff;stroke-width:6.09488;"
+         id="tspan845-5"> </tspan></tspan></text>
+</svg>
